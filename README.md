@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganuj293
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning htyml,css,js.
+- 🌱 I’m currently learning html,css,js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta- @anuj_xp
 - 😄 Pronouns: ...
